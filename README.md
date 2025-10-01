@@ -63,9 +63,9 @@ Este documento recoge las actividades y entregables correspondientes al primer s
 
 ### Tecnologías Utilizadas
 
-- **Backend:** [Ejemplo: Node.js, Express]
-- **Base de Datos:** [Ejemplo: PostgreSQL, MongoDB]
-- **Frontend:** [Ejemplo: React, Vue.js]
+- **Backend:** [Node.js, Express]
+- **Base de Datos:** [Firebase]
+- **Frontend:** [React, Vue.js]
 - **Control de versiones:** Git y GitHub
 
 *(Modificar según corresponda)*
