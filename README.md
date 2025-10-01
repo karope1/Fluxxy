@@ -48,7 +48,7 @@ Este documento recoge las actividades y entregables correspondientes al primer s
 | 1    | Definir requisitos y criterios de aceptación    | Completado |
 | 2    | Planificación y seguimiento de tareas           | Completado |
 | 3    | Diseño de esquema de base de datos              | Completado |
-| 4    | Creación de API para gestión de perfiles (CRUD) | Completado |
+| 4    | Creación para gestión de perfiles (CRUD)        | Completado |
 | 5    | Implementación del sistema de roles y permisos  | Completado |
 | 6    | Diseño de la interfaz de perfil de usuario      | Completado |
 | 7    | Implementación del formulario de edición        | Completado |
@@ -57,18 +57,17 @@ Este documento recoge las actividades y entregables correspondientes al primer s
 | 10   | Integración de términos y condiciones           | Completado |
 | 11   | Pruebas de funcionalidad backend                | Completado |
 | 12   | Pruebas de interfaz de usuario                  | Completado |
-| 13   | Validación de criterios de aceptación           | Completado |
+
 
 ---
 
 ### Tecnologías Utilizadas
 
-- **Backend:** [Node.js, Express]
+- **Backend:** [Dart]
 - **Base de Datos:** [Firebase]
-- **Frontend:** [React, Vue.js]
+- **Frontend:** [React, Vue.j]
 - **Control de versiones:** Git y GitHub
 
-*(Modificar según corresponda)*
 
 ---
 
@@ -78,7 +77,3 @@ Este documento recoge las actividades y entregables correspondientes al primer s
 - Ampliación de funcionalidades de perfil.
 - Implementación de pruebas automatizadas adicionales.
 - Optimización de la interfaz y experiencia de usuario.
-
----
-
-*Documento generado automáticamente como parte del proceso de gestión ágil de proyectos.*
